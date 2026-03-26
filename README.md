@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System — SQL + Patient Readmission Prediction (ML)
+# 🏥 Hospital Management System SQL + Patient Readmission Prediction (ML)
 
 > **Author:** Srishti Kashyap | B.Tech Biotechnology | IMS Engineering College  
 > **Tools:** MySQL · Python · Pandas · Scikit-learn · Matplotlib · Seaborn
